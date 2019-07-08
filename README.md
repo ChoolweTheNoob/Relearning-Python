@@ -1,3 +1,3 @@
 # Relearning-Python
 
-Code form Python Basics: A Self Teaching Introduction by H Basin
+Code from Python Crash Course by Eric Matthes.
