@@ -1,5 +1,7 @@
-cubes = list(range(1,11))
+nums = list(range(1,11))
+cubes = []
+for num in nums:
+    cubes.append(num**3)
 
 for cube in cubes:
-    cube**3
-    
+    print(cube)
